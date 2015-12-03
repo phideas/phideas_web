@@ -1855,6 +1855,8 @@ input[type="button"],
     font-size: 0.84375em;
     line-height: 1.5em;
     margin: 0; }
+  .work-item ul {
+    margin: 0; }
 
 /* Header */
 #header {
